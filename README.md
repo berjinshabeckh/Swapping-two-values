@@ -25,7 +25,7 @@ n1=n2
 n2=t
 print("Swapped values are:",n1,n2)
 ## OUTPUT:
-![swap](outputswap.png)
+![swap](outputswap1.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
