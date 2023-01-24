@@ -19,8 +19,8 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 ```
-swapping two values
-developed by:Berjin Shabeck
+#swapping two values
+#developed by:Berjin Shabeck
 reg no:22007550
 n1=input()
 n2=input()
